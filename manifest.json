@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Sonata",
+  "description": "This extension acts as a music player in your current tab.",
+  "version": "1.0",
+
+  "permissions": [
+    
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+}
